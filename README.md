@@ -13,7 +13,7 @@
 
 </div>
 
-## What is Apache HugeGraph?
+## What is Apache HugeGraph? 
 
 [HugeGraph](https://hugegraph.apache.org/) is a fast-speed and highly-scalable [graph database](https://en.wikipedia.org/wiki/Graph_database). 
 Billions of vertices and edges can be easily stored into and queried from HugeGraph due to its excellent OLTP ability. 
